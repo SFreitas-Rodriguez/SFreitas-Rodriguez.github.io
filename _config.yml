@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Sandra Freitas Rodríguez"
+  name   : "Bio"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Hard-working biomedical research scientist with experience in molecular and cell biology"
   links:
