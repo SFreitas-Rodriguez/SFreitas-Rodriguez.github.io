@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Sandra Freitas Rodríguez"
-  avatar : "/assets/images/bio-photo-2.jpg"
+  avatar : "/assets/images/bio-photo_2.jpg"
   bio    : "Hard-working biomedical research scientist with experience in molecular and cell biology"
   links:
     - label: "ORCID"
