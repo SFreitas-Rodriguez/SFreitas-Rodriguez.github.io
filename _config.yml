@@ -59,27 +59,27 @@ plugins:
 
 author:
   name   : "Sandra Freitas Rodríguez"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo-2.jpg"
   bio    : "Hard-working biomedical research scientist with experience in molecular and cell biology"
   links:
-    - label: "Website"
+    - label: "ORCID"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
+      url: "https://orcid.org/0000-0001-5733-9839"
+    - label: "ResearchGate"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
-    - label: "GitHub"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/biologiasinprisa2.0"
 
 footer:
   links:  
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/biologiasinprisa2.0"
 
 defaults:
   # _posts
